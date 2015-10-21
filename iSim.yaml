@@ -1,0 +1,13 @@
+# Test repo
+
+instances:
+  volume1:
+    eSHS: is.storage.san
+    dataCenter: GL          # [ GL | RO | Description (other) ]
+    envType:  prod            # [ prod or nonprod ]
+    useCase:  general            # [ general (default) | generalArchive | ESX | VERITAS | SPOD | OPOD | OPODBackup ]
+    size: 1000                # [ Size in GB ]
+    custom:               # [ optional - freeform text.  If you specify custom expect additional delay ]
+      - Custom text requirement 1
+      - Custom text requirement 2
+      
