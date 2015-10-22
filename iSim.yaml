@@ -1,6 +1,11 @@
 # Test repo
 
-instances:         
+instances:   
+  legacyServer1:
+    notes:
+      - ssz1234
+      - Decom due July 2015
+      
   volume1:     
     eSHS: is_storage_san    
     dataCenter: HO      # [ GL | RO | Description (other) ]
