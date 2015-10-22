@@ -1,7 +1,7 @@
 # Test repo
 
 instances:
-  volume1:
+  volume1:  
     eSHS: is.storage.san
     dataCenter: GL          # [ GL | RO | Description (other) ]
     envType:  prod            # [ prod or nonprod ]
