@@ -3,7 +3,7 @@
 instances:       
   volume1:        
     eSHS: is_storage_san
-    dataCenter:        # [ GL | RO | Description (other) ]
+    dataCenter:  RO      # [ GL | RO | Description (other) ]
     envType:  prod            # [ prod or nonprod ]
     useCase:  general            # [ general (default) | generalArchive | ESX | VERITAS | SPOD | OPOD | OPODBackup ]
     size: 1000                # [ Size in GB ]
