@@ -11,7 +11,7 @@ instances:
     eSHS: is_storage_san    
     dataCenter: HO      # [ GL | RO | Description (other) ]
     envType: prod             # [ prod or nonprod ]
-    useCase: ES         # [ general (default) | generalArchive | ESX | VERITAS | SPOD | OPOD | OPODBackup ]
+    useCase: BLA         # [ general (default) | generalArchive | ESX | VERITAS | SPOD | OPOD | OPODBackup ]
     size:  100               # [ Size in GB ]
     custom:               # [ optional - freeform text.  If you specify custom expect additional delay ]
       - Custom text requirement 1
