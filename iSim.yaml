@@ -3,7 +3,7 @@
 instances:   
   legacyServer1:
     eSHS: legacy
-    notes
+    notes:
       - ssz1234
       - Decom due July 2015
       
