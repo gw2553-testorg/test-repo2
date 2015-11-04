@@ -7,7 +7,7 @@ instances:
       - ssz1234  
       - Decom due July 2015  
        
-  volume1:       
+  volume1:        
     eSHS: is_storage_san    
     dataCenter: GL     # [ GL | RO | Description (other) ]
     envType: prod             # [ prod or nonprod ]
