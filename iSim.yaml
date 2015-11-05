@@ -27,6 +27,6 @@ instances:
       - Custom text requirement 1
       - Custom text requirement 2
 
-  volume6:
+  volume2:
     <<: *v4
     
