@@ -1,7 +1,7 @@
 # Test repo
 
 instances:   
-  legacyServer1:
+  legacyServer1: 
     eSHS: legacy
     notes:  
       - ssz1234     
