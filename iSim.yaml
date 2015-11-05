@@ -17,7 +17,7 @@ instances:
       - Custom text requirement 1
       - Custom text requirement 2
       
-   volume3:          
+  volume3:          
     eSHS: is_storage_san       
     dataCenter: RO     # [ GL | RO | Description (other) ]
     envType: prod             # [ prod or nonprod ]
